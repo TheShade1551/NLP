@@ -1,5 +1,4 @@
---find-links https://download.pytorch.org/whl/torch_stable.html
 streamlit
 transformers
-sentencepiece==0.2.0 --only-binary=:all:
+sentencepiece==0.2.0
 torch
